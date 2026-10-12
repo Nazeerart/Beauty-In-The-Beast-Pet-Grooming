@@ -191,7 +191,7 @@ function Lightbox({ items, index, setIndex, kind }) {
 
       <figure className="lb-panel" key={item.src}>
         {kind === "video" ? (
-          <video className="lb-media" src={item.src} poster={item.poster} controls autoPlay playsInline />
+          <video className="lb-media" src={item.src} poster={item.poster} controls autoPlay muted loop playsInline />
         ) : (
           <img className="lb-media" src={item.src} alt={item.alt} />
         )}

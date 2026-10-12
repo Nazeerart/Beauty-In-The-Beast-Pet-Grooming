@@ -21,14 +21,13 @@ export const IMAGES = {
   why: "/images/groomer-with-dog.png",
   gallery: [
     { src: "/images/grooming-portrait-blue.png", alt: "A freshly groomed Shih Tzu at the salon" },
+    { src: "/images/golden-bath-groomer.png", alt: "Groomer giving a golden retriever a gentle bubble bath" },
     { src: "/images/groomer-with-dog.png", alt: "Groomer caring for a fluffy white dog" },
-    { src: "/images/happy-white-dog.png", alt: "Happy white dog after grooming" },
+    { src: "/images/golden-on-grooming-table.png", alt: "Happy golden retriever on the grooming table" },
     { src: "/images/fresh-groom-white-dog.png", alt: "Freshly groomed small white dog" },
+    { src: "/images/fluffy-white-spitz.png", alt: "Fluffy white dog freshly groomed and smiling" },
     { src: "/images/happy-shih-tzu.png", alt: "Happy Shih Tzu with a fresh trim" },
-    { src: "/images/groomed-shih-tzu.png", alt: "Small dog showing off its groomed coat" },
     { src: "/images/grooming-table-dog.png", alt: "Dog standing on the grooming table" },
-    { src: "/images/fresh-groom-pet.png", alt: "Pet enjoying a calm salon moment" },
-    { src: "/images/salon-dog-portrait.png", alt: "Small dog at Beauty in the Beast grooming parlour" },
   ],
 };
 
